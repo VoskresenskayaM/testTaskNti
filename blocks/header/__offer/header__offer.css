@@ -1,0 +1,9 @@
+.header__offer{
+    display: flex;
+    flex-direction: row;
+    width: 1550px;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 80px;
+    margin-bottom: 60px;
+}

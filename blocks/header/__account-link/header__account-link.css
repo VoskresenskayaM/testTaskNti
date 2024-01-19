@@ -1,0 +1,10 @@
+.header__account-link {
+    text-decoration: none;
+    font-size: 18px;
+    color:#3B3C40;
+    transition: opacity .5s ease;
+}
+
+.header__account-link {
+    opacity: 0.6;
+}

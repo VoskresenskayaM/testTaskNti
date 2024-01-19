@@ -1,0 +1,9 @@
+.header__search {
+    display: flex;
+    flex-direction: row;
+    width: 1550px;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 80px;
+    margin-top: 15px;
+}

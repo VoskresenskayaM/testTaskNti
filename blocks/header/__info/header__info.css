@@ -1,0 +1,8 @@
+.header__info {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    gap: 40px;
+    padding: 0;
+}

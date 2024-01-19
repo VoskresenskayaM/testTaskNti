@@ -1,0 +1,12 @@
+.header__offer-button {
+    height: 50px;
+    width: 230px;
+    border: none;
+    background-color: #E50E78;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 13px;
+    align-items: center;
+}

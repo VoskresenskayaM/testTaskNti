@@ -1,0 +1,40 @@
+@font-face {
+ font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("./Inter-Medium.woff") format("woff")
+}
+
+@font-face {
+  font-family: 'Euclid Circular A';
+   font-style: normal;
+   font-weight: 500;
+   font-display: swap;
+   src: url("./Euclid-Circular-A-Medium.woff") format("woff")
+ }
+
+ @font-face {
+  font-family: 'Euclid Circular A';
+   font-style: normal;
+   font-weight: 400;
+   font-display: swap;
+   src: url("./Euclid-Circular-A-Regular.woff") format("woff")
+ }
+
+ @font-face {
+  font-family: 'Euclid Circular A';
+   font-style: bold;
+   font-weight: 700;
+   font-display: swap;
+   src: url("./Euclid-Circular-A-SemiBold.woff") format("woff")
+ }
+
+ @font-face {
+  font-family: 'Euclid Circular A';
+   font-style: bold;
+   font-weight: 900;
+   font-display: swap;
+   src: url("./Euclid-Circular-A-Bold.woff") format("woff")
+ }
+ 

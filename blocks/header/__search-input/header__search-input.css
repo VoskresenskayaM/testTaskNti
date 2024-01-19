@@ -1,0 +1,13 @@
+.header__search-input {
+    margin-left: 25px;
+    width: 500px;
+    border: none;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.header__search-input:active,
+.header__search-input:hover,
+.header__search-input:focus {
+   outline: none;
+}

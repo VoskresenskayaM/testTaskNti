@@ -1,0 +1,13 @@
+.header__catalog-text {
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 20px;
+    text-decoration: none;
+    transition: opacity .5s ease;
+    cursor: pointer;
+}
+
+.header__catalog-text:hover{
+    opacity: 0.6;
+}

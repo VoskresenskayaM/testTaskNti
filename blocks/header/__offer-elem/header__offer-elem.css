@@ -1,0 +1,11 @@
+.header__offer-elem {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    background-color: #F4F6F8;
+    min-height: 50px;
+    border-radius: 15px;
+    padding:  0 24px;
+}

@@ -1,0 +1,138 @@
+.consultation{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #F3EFFF;
+    border-radius: 50px;
+    height: 497px;
+    margin-top: 50px;
+}
+
+.consultation__img-block{
+    min-width: 798px;
+    background-color: #FFF;
+    height: 100%;
+    border-radius: 50px;
+}
+
+.consultation__form-block{
+    min-width: 375px;
+    margin-right: 125px;
+    margin-top: 62px;
+}
+
+.consultation__title{
+    font-size: 50px;
+    font-weight: 500;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.consultation__data{
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+    margin: 20px 0 40px 0;
+    color: #9293B0;
+}
+
+.consultation__form{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 20px;
+}
+
+.consultation__input-block{
+    width: 100%;
+    height: 60px;
+    border: 1px solid #E50E78;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 1px;
+}
+
+.consultation__input{
+    border: none;
+    font-size: 16px;
+    color: #9293B0;
+    font-weight: 500;
+    background-color: #F3EFFF;
+}
+
+.consultation__input:active,
+.consultation__input:hover,
+.consultation__input:focus {
+   outline: none;
+}
+
+.consultation__input-img {
+    width: 24px;
+    height: 24px;
+    margin-left: 25px ;
+}
+
+.consultation__agreement-block{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.consultation__agreement{
+    margin: 0;
+    font-size: 14px;
+    color: #9293B0;
+    line-height: 140%;
+    max-width: 267px;
+}
+
+.consultation__agreement-link {
+    font-size: 14px;
+    line-height: 140%;
+    font-weight: 500px;
+    color: #9293B0;
+    transition: opacity .5s ease;
+}
+
+.consultation__agreement-link:hover {
+    opacity: 0.6;
+}
+
+.consultation__button-block{
+    width: 205px;
+    height: 60px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-image: linear-gradient(to right, #DD3197, #822FAF);
+}
+
+.consultation__button-send{
+    font-size: 18px;
+    line-height: 130%;
+    font-weight: 500px;
+    color: #FFF;
+    margin: 0 30px 0 25px;
+}
+
+.consultation__button{
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #FFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    margin-right: 5px;
+    cursor: pointer;
+}
+

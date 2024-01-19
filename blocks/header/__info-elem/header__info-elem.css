@@ -1,0 +1,7 @@
+.header__info-elem {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 4px;
+    align-items: center;
+}

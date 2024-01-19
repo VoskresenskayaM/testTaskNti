@@ -1,0 +1,6 @@
+.header__container {
+    min-width: 1556px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

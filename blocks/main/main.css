@@ -1,0 +1,35 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+    position: relative;
+}
+
+.block{
+    width: 690px;
+    height: 422px;
+    background-color: #7D68FB;
+    background-image: radial-gradient(circle, #F99CDA, #7D68FB );
+    clip-path: path('M690 30C690 13.4315 676.569 0 660 0H30C13.4315 0 0 13.4315 0 30V392C0 408.569 13.4315 422 30 422H590C606.569 422 620 408.569 620 392V382C620 365.431 633.431 352 650 352H660C676.569 352 690 338.569 690 322V30Z');
+}
+
+.circul{
+    background: black;
+    border-radius: 30px;
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    left:  1250px;
+    bottom: 0;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    min-width: 1560px;
+    margin: 0 auto;
+    position: relative;
+}
+
